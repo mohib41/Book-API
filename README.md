@@ -14,7 +14,7 @@ A simple REST API for managing books using Node.js and Express. This project sup
 
 <br>
 
-<b>Built With:</b><br>
+<b>Built With:</b>
 <ul>
 <li>Node.js</li>
 <li>Express</li>
