@@ -4,20 +4,20 @@ A simple REST API for managing books using Node.js and Express. This project sup
 <br>
 <b>Features:</b> <br>
 <ul>
-Get all books
-Add a new book
-Update a book by ID
-Delete a book by ID
-In-memory storage (resets on server restart)
-Simple and easy to test with Postman
+<li>Get all books</li>
+<li>Add a new book</li>
+<li>Update a book by ID</li>
+<li>Delete a book by ID</li>
+<li>In-memory storage (resets on server restart)</li>
+<li>Simple and easy to test with Postman</li>
 </ul>
 
 <br>
 
 <b>Built With:</b><br>
 <ul>
-Node.js
-Express
-Nodemon
+<li>Node.js</li>
+<li>Express</li>
+<li>Nodemon</li>
 </ul>
 
